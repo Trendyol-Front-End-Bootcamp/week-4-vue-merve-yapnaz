@@ -1,2 +1,8 @@
-# week-4-vue-merve-yapnaz
-Trendyol-Front-End-Bootcamp Week 4 Star Wars Api Vue Homework
+# Trendyol frontend bootcamp Vue homework
+### About Project
+#### A simple vue app that uses [The Star Wars API](https://swapi.dev/)
+
+## Preview
+
+![Image](/src/assets/img/prew1.JPG)
+![Image](/src/assets/img/prew2.JPG)
